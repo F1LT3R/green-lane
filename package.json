@@ -1,6 +1,6 @@
 {
-	"name": "green-lane",
-	"main": "green-lane",
+	"name": "greenlane",
+	"main": "greenlane",
 	"version": "1.0.0",
 	"description": "augmented writing for the cli - w/ realtime spell checking &amp; statistics",
 	"license": "MIT",
