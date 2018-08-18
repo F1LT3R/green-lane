@@ -1,7 +1,7 @@
 {
 	"name": "greenlane",
 	"main": "greenlane",
-	"version": "1.0.0",
+	"version": "1.0.0-alpha",
 	"description": "augmented writing for the cli - w/ realtime spell checking &amp; statistics",
 	"license": "MIT",
 	"repository": "F1LT3R/green-lane",
